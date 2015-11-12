@@ -1,0 +1,7 @@
+# GitHub project-specific ignores
+dist
+bower_components
+node_modules
+npm-debug.log
+prepros.cfg
+readme.pdf
